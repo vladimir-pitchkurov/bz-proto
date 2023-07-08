@@ -1,0 +1,14 @@
+{
+  "name": "grpc-nest-proto",
+  "version": "1.0.0",
+  "description": "grpc models for microservices",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/vladimir-pitchkurov/bz-proto.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
