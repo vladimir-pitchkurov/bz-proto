@@ -38,6 +38,7 @@ message UserData {
     int32 id = 1;
     string email = 2;
     bool is_verified = 3;
+    string role = 4;
 }
 
 // Validate
